@@ -835,3 +835,74 @@ h1:hover, h2:hover, h3:hover {
     /* padding: 1rem; */
   }
 }
+/* Responsive Styles for Achievements Section */
+@media (max-width: 1024px) {
+  .achievements-section {
+    padding: 3rem 1.5rem;
+  }
+
+  .achievement-grid {
+    gap: 1.5rem;
+  }
+
+  .achievement-card {
+    padding: 1.2rem;
+  }
+
+  .achievement-card h3 {
+    font-size: 1.2rem;
+  }
+
+  .achievement-item {
+    font-size: 0.95rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .achievement-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .achievements-section {
+    padding: 2.5rem 1rem;
+    margin: 2rem 1rem;
+  }
+
+  .achievement-card {
+    padding: 1rem;
+  }
+
+  .achievement-card h3 {
+    font-size: 1.1rem;
+    text-align: center;
+  }
+
+  .achievement-item {
+    font-size: 0.9rem;
+    flex-direction: row;
+  }
+}
+
+@media (max-width: 480px) {
+  .achievements-section {
+    padding: 2rem 0.8rem;
+  }
+
+  .achievement-card {
+    padding: 0.8rem;
+  }
+
+  .achievement-card h3 {
+    font-size: 1rem;
+  }
+
+  .achievement-item {
+    font-size: 0.85rem;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .bullet-icon {
+    margin-bottom: 0.3rem;
+  }
+}
