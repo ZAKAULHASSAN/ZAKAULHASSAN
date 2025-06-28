@@ -837,40 +837,6 @@ h1:hover, h2:hover, h3:hover {
 }
 
 
- /* Mobile-Only Responsiveness for Achievements Section */
-@media (max-width: 480px) {
-  .achievements-section {
-    padding: 2rem 1rem;
-    margin: 2rem 1rem;
-  }
 
-  .achievement-grid {
-    grid-template-columns: 1fr;
-    gap: 1.2rem;
-  }
-
-  .achievement-card {
-    padding: 1rem;
-    border-left-width: 4px;
-  }
-
-  .achievement-card h3 {
-    font-size: 1.05rem;
-    text-align: center;
-    padding-bottom: 0.4rem;
-  }
-
-  .achievement-item {
-    font-size: 0.9rem;
-    display: flex;
-    align-items: flex-start;
-    line-height: 1.4;
-  }
-
-  .bullet-icon {
-    margin-right: 0.4rem;
-    font-size: 1rem;
-    line-height: 1.4;
-  }
-}
+  
 
