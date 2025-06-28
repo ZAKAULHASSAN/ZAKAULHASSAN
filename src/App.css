@@ -835,74 +835,42 @@ h1:hover, h2:hover, h3:hover {
     /* padding: 1rem; */
   }
 }
-/* Responsive Styles for Achievements Section */
-@media (max-width: 1024px) {
+
+
+ /* Mobile-Only Responsiveness for Achievements Section */
+@media (max-width: 480px) {
   .achievements-section {
-    padding: 3rem 1.5rem;
+    padding: 2rem 1rem;
+    margin: 2rem 1rem;
   }
 
-  .achievement-grid {
-    gap: 1.5rem;
-  }
-
-  .achievement-card {
-    padding: 1.2rem;
-  }
-
-  .achievement-card h3 {
-    font-size: 1.2rem;
-  }
-
-  .achievement-item {
-    font-size: 0.95rem;
-  }
-}
-
-@media (max-width: 768px) {
   .achievement-grid {
     grid-template-columns: 1fr;
-  }
-
-  .achievements-section {
-    padding: 2.5rem 1rem;
-    margin: 2rem 1rem;
+    gap: 1.2rem;
   }
 
   .achievement-card {
     padding: 1rem;
+    border-left-width: 4px;
   }
 
   .achievement-card h3 {
-    font-size: 1.1rem;
+    font-size: 1.05rem;
     text-align: center;
+    padding-bottom: 0.4rem;
   }
 
   .achievement-item {
     font-size: 0.9rem;
-    flex-direction: row;
-  }
-}
-
-@media (max-width: 480px) {
-  .achievements-section {
-    padding: 2rem 0.8rem;
-  }
-
-  .achievement-card {
-    padding: 0.8rem;
-  }
-
-  .achievement-card h3 {
-    font-size: 1rem;
-  }
-
-  .achievement-item {
-    font-size: 0.85rem;
-    flex-direction: column;
+    display: flex;
     align-items: flex-start;
+    line-height: 1.4;
   }
 
   .bullet-icon {
-    margin-bottom: 0.3rem;
+    margin-right: 0.4rem;
+    font-size: 1rem;
+    line-height: 1.4;
   }
 }
+
