@@ -4,7 +4,7 @@ const projectList = [
   {
     title: "BUYZI App",
     description: "AI-based shopping experience with visual search using ResNet50. Built using React Native, Django, and MongoDB.",
-    github: "https://github.com/yourusername/BUYZI-App"
+    github: "https://github.com/ZAKAULHASSAN/BUYZI-APP"
   },
   {
     title: "ResQNet",
