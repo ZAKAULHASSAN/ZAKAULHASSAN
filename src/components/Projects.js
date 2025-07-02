@@ -9,7 +9,7 @@ const projectList = [
   {
     title: "ResQNet",
     description: "Full-stack disaster relief coordination platform built with React Native, Node.js, Express, and MongoDB.",
-    github: "https://github.com/ZAKAULHASSAN/RESQNET"
+    github: "https://github.com/ZAKAULHASSAN/RESQNET-DRCP"
   },
   {
     title: "TourNest",
