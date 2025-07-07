@@ -14,9 +14,7 @@ function Home() {
           <h1>Hi, I'm <span className="highlight">Zaka Ul Hassan</span></h1>
           <h3 className="subtitle">Software Engineer | AI Enthusiast | Mobile App Developer</h3>
           <p className="home-bio">
-            Final-year Software Engineering student specializing in full-stack development,
-            AI, and machine learning. I build efficient, scalable solutions to solve
-            real-world problems and enhance user experiences.
+            Software Engineer specializing in mobile app development and AI/ML. With a strong foundation in full-stack development and a passion for solving real-world problems, I build scalable, efficient applications that deliver intuitive user experiences and intelligent automation.
           </p>
         </div>
       </div>
