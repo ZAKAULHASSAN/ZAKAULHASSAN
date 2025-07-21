@@ -16,7 +16,16 @@ const projectList = [
     description: "A tour booking website with React.js, featuring dynamic routing, booking management, and localStorage for data persistence.",
     github: "https://github.com/ZAKAULHASSAN/Tour-Nest"
   },
-  
+  {
+  title: "AgriDiagnosis",
+  description: "Mobile-based crop disease detection system using TensorFlow Lite. Achieved 97% accuracy with optimized model via pruning and quantization.",
+  github: "https://github.com/ZAKAULHASSAN/AgriDiagnosis"
+},
+{
+  title: "StudyGlobe",
+  description: "Educational mobile app for global admissions and scholarships. Developed with React Native; features include program search, save lists, and admission guides.",
+  github: "https://github.com/ZAKAULHASSAN/StudyGlobe"
+},
   {
     title: "Weather App",
     description: "Displays real-time weather updates using the OpenWeather API. Designed with React for clean user interaction.",
