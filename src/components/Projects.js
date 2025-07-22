@@ -19,7 +19,7 @@ const projectList = [
   {
   title: "AgriDiagnosis",
   description: "Mobile-based crop disease detection system using TensorFlow Lite. Achieved 97% accuracy with optimized model via pruning and quantization.",
-  github: "https://github.com/ZAKAULHASSAN/AgriDiagnosis"
+  github: "https://github.com/ZAKAULHASSAN/Agri-Diagnosis"
 },
 {
   title: "StudyGlobe",
