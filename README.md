@@ -10,12 +10,13 @@ I'm a passionate **Software Engineer** from Pakistan 🇵🇰 with hands-on expe
 - **AI/ML:** TensorFlow, OpenCV (Basic)
 
 ### 📱 Some of My Notable Projects:
+
+- **Buyzi App** – An AI-powered product recommendation system using TensorFlow and Django.
 - **RewardRush** – A reward-based mobile app where users earn by clicking links.
 - **StudyGlobe** – An educational consultancy app helping students apply to international universities.
-- **Buyzi App** – An AI-powered product recommendation system using TensorFlow and Django.
 - **ResQNet** – A real-time volunteer help and emergency reporting app.
 - **TourNest** – A responsive tour booking website with user-friendly UI and local storage-based booking system.
-- **AgroDiagnosis** – An agriculture-focused app that detects plant diseases using AI and suggests treatments.
+- **AgriDiagnosis** – An agriculture-focused app that detects plant diseases using AI and suggests treatments.
 
 ### 💼 Services I Offer:
 - Custom mobile & web applications  
