@@ -5,7 +5,7 @@ I'm a passionate **Software Engineer** from Pakistan 🇵🇰 with hands-on expe
 ### 🚀 Technologies I Work With:
 - **Frontend:** React.js, React Native, HTML, CSS, JavaScript
 - **Backend:** Node.js, Express.js, Django
-- **Databases:** MongoDB, Firebase, SQLite
+- **Databases:** MongoDB, Firebase, MySQL, SQLite
 - **Tools & Platforms:** Git, GitHub, Figma, Postman, VS Code
 - **AI/ML:** TensorFlow, OpenCV (Basic)
 
@@ -14,12 +14,14 @@ I'm a passionate **Software Engineer** from Pakistan 🇵🇰 with hands-on expe
 - **StudyGlobe** – An educational consultancy app helping students apply to international universities.
 - **Buyzi App** – An AI-powered product recommendation system using TensorFlow and Django.
 - **ResQNet** – A real-time volunteer help and emergency reporting app.
+- **TourNest** – A responsive tour booking website with user-friendly UI and local storage-based booking system.
+- **AgroDiagnosis** – An agriculture-focused app that detects plant diseases using AI and suggests treatments.
 
 ### 💼 Services I Offer:
 - Custom mobile & web applications  
-- Firebase or MongoDB integration  
+- Firebase, MongoDB & MySQL integration  
 - AI-based app features  
-- Admin dashboards & APIs  
+- Admin dashboards & REST APIs  
 
 ### 📫 Let's Connect:
 - **Portfolio:** [zakaulhassan.vercel.app](https://zakaulhassan.vercel.app)
